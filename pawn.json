@@ -1,0 +1,17 @@
+{
+	"user": "AlexDev",
+	"repo": "Sv_CEID",
+	"entry": "gamemodes\\ceid.pwn",
+	"output": "gamemodes\\ceid.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"pBlueG/SA-MP-MySQL"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
